@@ -1,9 +1,9 @@
-const cacheName = "TooFooDev-The Skuffed Scary-1.1.7wb2";
+const cacheName = "TooFooDev-The Skuffed Scary-1.1.7w2";
 const contentToCache = [
     "Build/TSS Web.loader.js",
-    "Build/TSS Web.framework.js.gz",
-    "Build/TSS Web.data.gz",
-    "Build/TSS Web.wasm.gz",
+    "Build/TSS Web.framework.js",
+    "Build/TSS Web.data",
+    "Build/TSS Web.wasm",
     "TemplateData/style.css"
 
 ];
